@@ -17,3 +17,6 @@ The rules of this competion are:
 5. Games must be finished and are no longer allowed to be worked on by the 21st of January
 
 6. Games must have a task to be completed by the player that is metioned at the start
+
+# Make your game
+When you make your game before you make/add the first item make sure you have YOURUSERNAME's Game then add a '/'. This makes a folder for your game.
