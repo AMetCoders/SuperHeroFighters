@@ -6,7 +6,7 @@ This competion will be judged by a few close friends and eveything will be store
 # The Rules
 The rules of this competion are:
 
-1. All of the game must be coded, you can use gif's for animation
+1. All of the game must be coded
 
 2. Use of code making cheats are banned
 
@@ -15,3 +15,5 @@ The rules of this competion are:
 4. Creation of game must start after or on the 21st of November
 
 5. Games must be finished and are no longer allowed to be worked on by the 21st of January
+
+6. Games must have a task to be completed by the player that is metioned at the start
