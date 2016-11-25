@@ -1,5 +1,5 @@
 # GameComp
-A Game Competition between me and a friend, find the site here https://C0deAMet.github.io/GameComp/
+A Game Competition between me and a friend, find the site here https://AMetCoders.github.io/GameComp/
 
 This competion will be judged by a few close friends and eveything will be stored here in this repository
 
